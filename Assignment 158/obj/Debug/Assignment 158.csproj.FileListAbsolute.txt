@@ -1,0 +1,7 @@
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 158\obj\Debug\Assignment 158.csprojAssemblyReference.cache
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 158\obj\Debug\Assignment 158.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 158\bin\Debug\Assignment 158.exe.config
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 158\bin\Debug\Assignment 158.exe
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 158\bin\Debug\Assignment 158.pdb
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 158\obj\Debug\Assignment 158.exe
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 158\obj\Debug\Assignment 158.pdb
