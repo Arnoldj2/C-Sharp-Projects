@@ -1,0 +1,7 @@
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 193\obj\Debug\Assignment 193.csprojAssemblyReference.cache
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 193\obj\Debug\Assignment 193.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 193\bin\Debug\Assignment 193.exe.config
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 193\bin\Debug\Assignment 193.exe
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 193\bin\Debug\Assignment 193.pdb
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 193\obj\Debug\Assignment 193.exe
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 193\obj\Debug\Assignment 193.pdb
