@@ -10,6 +10,23 @@ namespace Assignment_190
     {
         static void Main(string[] args)
         {
+
+            int i = 0;
+            bool number1 = false;
+            while (!number1)
+            {
+                Console.WriteLine(i);
+                i++;
+                
+                if (i > 15)
+                {
+                    number1 = true;
+                }
+            }
+
+
+
+
             Console.WriteLine("Out of a total of 8. How many hours of study did you put in today?");
             int number = Convert.ToInt32(Console.ReadLine());
             bool goal = number == 8;
