@@ -49,86 +49,90 @@ namespace ConsoleAppAssignment
             Console.ReadLine();
 
 
-
-            string[] list = { "Steve", "Bill", "Jeff", "Brian", "Zoe", "Rick", "Mike" };
-
-            Console.WriteLine("Input text to search for in the list");
-            string search = Console.ReadLine();
+            List<string> list = new List<string>() { "Steve", "Bill", "Jeff", "Brian", "Zoe", "Rick", "Mike" };
             bool result = false;
-
-
-
-            for (int b = 0; b < list.Length; b++)
+            while (!result)
             {
+                Console.WriteLine("Input text to search for in the list");
+                string search = Console.ReadLine();
 
-                if (list[b].Contains(search))
-                {
 
-                    Console.WriteLine("Your search result " + list[b] + " was found in index " + b);
-                    result = true;
 
-                    if (result = true)
+
+                for (int b = 0; b < list.Count; b++)
+                {Z
+
+                    if (list[b].Contains(search))
                     {
-                        break;
+
+                        Console.WriteLine("Your search result " + list[b] + " was found in index " + b);
+                        result = true;
+
+                        if (result = true)
+                        {
+                            break;
+                        }
+
                     }
 
                 }
-                else
+
+                if (!result)
+
                 {
                     Console.WriteLine("Search result is not on the list");
-
-
-
                 }
             }
-
             Console.ReadLine();
 
 
-            string[] list2 = { "Steve", "Bill", "Steve", "Brian", "Zoe", "Rick", "Mike" };
+           
+            List<string> list2 = new List<string>() { "Steve", "Bill", "Steve", "Brian", "Zoe", "Rick", "Mike" };
+            bool result3 = false;
 
-            Console.WriteLine("Input text to search for in the list");
-            string search2 = Console.ReadLine();
-
-            bool result = false;
-
-
-
-            for (int c = 0; c < list2.Length; c++)
+            while (!result3)
             {
 
-                if (list2[c].Contains(search2))
+                Console.WriteLine("Input text to search for in the list");
+                string search2 = Console.ReadLine();
+
+                for (int c = 0; c < list2.Count; c++)
                 {
 
-                    Console.WriteLine("Your search result " + list2[c] + " was found in index " + c);
-                    result = true;
+                    if (list2[c].Contains(search2))
+                    {
 
+                        Console.WriteLine("Your search result " + list2[c] + " was found in index " + c);
+                        result3 = true;
+
+
+                    }
 
                 }
-                else
+                if (!result3)
+
                 {
                     Console.WriteLine("Search result is not on the list");
-
-
                 }
             }
-
             Console.ReadLine();
+
+
 
             List<string> firstlist = new List<string>() { "Amanda", "Zoe", "Steve", "Brian", "Zoe", "Rick", "Mike" , "Mike"};    
             List<string> newlist = new List<string>();
 
 
-            foreach (string x in firstlist)
+            foreach (string z in firstlist)
             {
-                if (!newlist.Contains(x))
+                if (!newlist.Contains(z))
                 {
-                    newlist.Add(x);
-                    Console.WriteLine(x);
+                    newlist.Add(z);
+                    Console.WriteLine(z);
                 }
-                else if (newlist.Contains(x))
+                else if (newlist.Contains(z))
                 {
-                    Console.WriteLine(x + " has appeared before");
+                    Console.WriteLine(z + " has appeared before");
                 }
 
             }
