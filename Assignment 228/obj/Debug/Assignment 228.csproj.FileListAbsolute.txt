@@ -1,0 +1,7 @@
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 228\obj\Debug\Assignment 228.csprojAssemblyReference.cache
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 228\obj\Debug\Assignment 228.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 228\bin\Debug\Assignment 228.exe.config
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 228\bin\Debug\Assignment 228.exe
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 228\bin\Debug\Assignment 228.pdb
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 228\obj\Debug\Assignment 228.exe
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 228\obj\Debug\Assignment 228.pdb
