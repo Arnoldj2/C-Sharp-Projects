@@ -10,7 +10,7 @@ namespace Assignment_247
     {
         public void Quit()
         {
-            Console.WriteLine("I Quit, 2 seconds has proven to be too much!");
+            Console.WriteLine(this.FirstName + " " + this.LastName + " has quit.");
         }
     }
     
