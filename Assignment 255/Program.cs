@@ -10,23 +10,42 @@ namespace Assignment_255
     {
         static void Main(string[] args)
         {
+            Employee<string> employee1 = new Employee<string>
+            {
+                Things = new List<string>()
+            };
 
-            // Make the Employee class take a generic type parameter.
-            // Add a property to the Employee class called "things" and have its data type be a generic list matching the generic type of the class.
-            //  Instantiate an Employee object with type "string" as its generic parameter. Assign a list of strings as the property value of Things.
-            // Instantiate an Employee object with type "int" as its generic parameter. Assign a list of integers as the property value of Things.
-            // Create a loop that prints all of the Things to the Console
+            employee1.Things.Add("CarKeys");
+            employee1.Things.Add("Badge");
+            employee1.Things.Add("Wrench");
+            employee1.Things.Add("MysteriousTrinket");
 
 
-            Employee<int> employee = new Employee<int>();
-            employee.Things = new List<int>() {1, 3, 5, 7, 11 };
-            
-            
-
-            foreach (int item in Things)
+            foreach (string item in employee1.Things)
             {
                 Console.Write(item);
             }
+
+            Console.ReadLine();
+
+            Employee<int> employee2 = new Employee<int>
+            {
+                Things = new List<int>()
+            };
+
+            employee2.Things.Add(1);
+            employee2.Things.Add(2);
+            employee2.Things.Add(3);
+            employee2.Things.Add(5);
+            employee2.Things.Add(7);
+
+
+            foreach (int item in employee2.Things)
+            {
+                Console.Write(item);
+            }
+
+            Console.ReadLine();
         }
     }
 }
