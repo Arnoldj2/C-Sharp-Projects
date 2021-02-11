@@ -31,13 +31,29 @@ namespace Assignment_272
 
             foreach (Employee employee in empList1)
 
-                Console.WriteLine(employee);
+                if (employee.FirstName == "Joe")
+                {
+                    empList2.Add(employee);
+                    Console.WriteLine(employee.FirstName);
+                }
 
-            //if (employee.FirstName == "Joe")
-            //{
-            //    empList2.Add(employee);
-            //    Console.WriteLine(employee);
-            //}
+            //Perform the same action again, but this time with a lambda expression.
+
+            List<Employee> empList3 = empList1.Where(x => x.FirstName == "Joe").ToList();
+
+            foreach (Employee employee in empList3)
+            {
+                Console.WriteLine(employee.FirstName);
+            }
+
+            // Using a lambda expression, make a list of all employees with an Id number greater than 5.
+
+            List<Employee> empList4 = empList1.Where(x => x.Id > 5 ).ToList();
+
+            foreach (Employee employee in empList4)
+            {
+                Console.WriteLine("Firstname: {0} Lastname: {1}", employee.FirstName, employee.LastName);
+            }
 
             Console.ReadLine();
 
