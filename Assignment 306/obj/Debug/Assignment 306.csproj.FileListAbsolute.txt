@@ -1,0 +1,6 @@
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 306\bin\Debug\Assignment 306.exe.config
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 306\bin\Debug\Assignment 306.exe
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 306\bin\Debug\Assignment 306.pdb
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 306\obj\Debug\Assignment 306.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 306\obj\Debug\Assignment 306.exe
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 306\obj\Debug\Assignment 306.pdb
