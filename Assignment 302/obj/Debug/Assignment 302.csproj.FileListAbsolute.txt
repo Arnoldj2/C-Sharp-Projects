@@ -1,0 +1,7 @@
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 302\bin\Debug\Assignment 302.exe.config
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 302\bin\Debug\Assignment 302.exe
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 302\bin\Debug\Assignment 302.pdb
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 302\obj\Debug\Assignment 302.csprojAssemblyReference.cache
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 302\obj\Debug\Assignment 302.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 302\obj\Debug\Assignment 302.exe
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 302\obj\Debug\Assignment 302.pdb
