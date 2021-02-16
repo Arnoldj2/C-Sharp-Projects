@@ -11,12 +11,13 @@ namespace TwentyOneGame
     {
         static void Main(string[] args)
         {
-            //string text = "Here is some text.";
-            //File.WriteAllText(@"C:\Users\Jeffrey\Logs\log.txt", text);
-            //using (StreamWriter file = new StreamWriter(@"C:\Users\Jeffrey\Logs\log.txt", true))
-            //{
-            //    file.WriteLine(card);
-            //}
+
+            //DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
+            //DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
+
+            //TimeSpan ageAtGraduation = yearOfGraduation - yearOfBirth;
+            //ageAtGraduation.
+
 
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();

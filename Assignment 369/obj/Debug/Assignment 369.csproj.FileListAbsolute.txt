@@ -1,0 +1,6 @@
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 369\obj\Debug\Assignment 369.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 369\bin\Debug\Assignment 369.exe.config
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 369\bin\Debug\Assignment 369.exe
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 369\bin\Debug\Assignment 369.pdb
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 369\obj\Debug\Assignment 369.exe
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 369\obj\Debug\Assignment 369.pdb
