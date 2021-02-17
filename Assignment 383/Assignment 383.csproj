@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A82D113B-295A-4187-A2C8-6D87E79DB9B4}</ProjectGuid>
+    <ProjectGuid>{105AAC07-1EB4-4683-8B1C-6ADBDCA44D23}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ClassesAndObjects</RootNamespace>
-    <AssemblyName>ClassesAndObjects</AssemblyName>
+    <RootNamespace>Assignment_383</RootNamespace>
+    <AssemblyName>Assignment 383</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,9 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Casino">
-      <HintPath>..\..\..\..\Desktop\Basic_C#_Programs\Casino\obj\Debug\netstandard2.0\Casino.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Employee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
