@@ -1,0 +1,12 @@
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\CodeFirstConsoleApp\bin\Debug\CodeFirstConsoleApp.exe.config
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\CodeFirstConsoleApp\bin\Debug\CodeFirstConsoleApp.exe
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\CodeFirstConsoleApp\bin\Debug\CodeFirstConsoleApp.pdb
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\CodeFirstConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\CodeFirstConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\CodeFirstConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\CodeFirstConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.csprojAssemblyReference.cache
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.csproj.CopyComplete
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.exe
+C:\Users\Jeffrey\Desktop\Basic_C#_Programs\CodeFirstConsoleApp\obj\Debug\CodeFirstConsoleApp.pdb
