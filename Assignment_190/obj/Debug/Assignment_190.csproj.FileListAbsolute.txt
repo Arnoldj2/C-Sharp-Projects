@@ -1,6 +1,0 @@
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment_190\bin\Debug\Assignment_190.exe.config
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment_190\bin\Debug\Assignment_190.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment_190\bin\Debug\Assignment_190.pdb
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment_190\obj\Debug\Assignment_190.csproj.CoreCompileInputs.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment_190\obj\Debug\Assignment_190.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment_190\obj\Debug\Assignment_190.pdb

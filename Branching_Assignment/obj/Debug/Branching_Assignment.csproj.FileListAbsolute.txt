@@ -1,7 +1,0 @@
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Branching_Assignment\obj\Debug\Branching_Assignment.csprojAssemblyReference.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Branching_Assignment\obj\Debug\Branching_Assignment.csproj.CoreCompileInputs.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Branching_Assignment\bin\Debug\Branching_Assignment.exe.config
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Branching_Assignment\bin\Debug\Branching_Assignment.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Branching_Assignment\bin\Debug\Branching_Assignment.pdb
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Branching_Assignment\obj\Debug\Branching_Assignment.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Branching_Assignment\obj\Debug\Branching_Assignment.pdb

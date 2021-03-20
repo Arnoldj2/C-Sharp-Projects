@@ -1,7 +1,0 @@
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 317\bin\Debug\Assignment 317.exe.config
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 317\bin\Debug\Assignment 317.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 317\bin\Debug\Assignment 317.pdb
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 317\obj\Debug\Assignment 317.csprojAssemblyReference.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 317\obj\Debug\Assignment 317.csproj.CoreCompileInputs.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 317\obj\Debug\Assignment 317.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 317\obj\Debug\Assignment 317.pdb

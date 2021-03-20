@@ -1,7 +1,0 @@
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 267\bin\Debug\Assignment 267.exe.config
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 267\bin\Debug\Assignment 267.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 267\bin\Debug\Assignment 267.pdb
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 267\obj\Debug\Assignment 267.csprojAssemblyReference.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 267\obj\Debug\Assignment 267.csproj.CoreCompileInputs.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 267\obj\Debug\Assignment 267.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 267\obj\Debug\Assignment 267.pdb

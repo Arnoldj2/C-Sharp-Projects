@@ -1,7 +1,0 @@
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 297\obj\Debug\Assignment 297.csprojAssemblyReference.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 297\obj\Debug\Assignment 297.csproj.CoreCompileInputs.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 297\bin\Debug\Assignment 297.exe.config
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 297\bin\Debug\Assignment 297.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 297\bin\Debug\Assignment 297.pdb
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 297\obj\Debug\Assignment 297.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 297\obj\Debug\Assignment 297.pdb

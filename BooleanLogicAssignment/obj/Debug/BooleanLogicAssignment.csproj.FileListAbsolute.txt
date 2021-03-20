@@ -1,6 +1,0 @@
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe.config
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.pdb
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.pdb

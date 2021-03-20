@@ -1,6 +1,0 @@
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 214\obj\Debug\Assignment 214.csproj.CoreCompileInputs.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 214\bin\Debug\Assignment 214.exe.config
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 214\bin\Debug\Assignment 214.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 214\bin\Debug\Assignment 214.pdb
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 214\obj\Debug\Assignment 214.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 214\obj\Debug\Assignment 214.pdb

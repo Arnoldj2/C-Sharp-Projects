@@ -1,7 +1,0 @@
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 244\obj\Debug\Assignment 244.csprojAssemblyReference.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 244\obj\Debug\Assignment 244.csproj.CoreCompileInputs.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 244\bin\Debug\Assignment 244.exe.config
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 244\bin\Debug\Assignment 244.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 244\bin\Debug\Assignment 244.pdb
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 244\obj\Debug\Assignment 244.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 244\obj\Debug\Assignment 244.pdb

@@ -1,7 +1,0 @@
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 383\obj\Debug\Assignment 383.csprojAssemblyReference.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 383\obj\Debug\Assignment 383.csproj.CoreCompileInputs.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 383\bin\Debug\Assignment 383.exe.config
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 383\bin\Debug\Assignment 383.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 383\bin\Debug\Assignment 383.pdb
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 383\obj\Debug\Assignment 383.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\Assignment 383\obj\Debug\Assignment 383.pdb
