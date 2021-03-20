@@ -1,7 +1,5 @@
 # C-Sharp-Projects
 
-***
-
 These are basic projects written in C-Sharp. They use various modules such sqlite3 and ASP.Net MVC
 
 ***
