@@ -1,7 +1,0 @@
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\ClassesAndObjects\obj\Debug\ClassesAndObjects.csprojAssemblyReference.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
-C:\Users\Jeffrey\Desktop\Basic_C#_Programs\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb
